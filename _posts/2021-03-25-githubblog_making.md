@@ -3,7 +3,7 @@ layout: post
 title:  "깃허브 블로그만들기"
 ---
 
-# Welcome
+# github blog making
 
 1. 마음에 드는 테마를 선택합니다.
 https://github.com/topics/jekyll-theme​
@@ -24,4 +24,4 @@ https://jekyllrb.com/docs/posts/​
 _config.yml 에 테마있음
 
 7. 에디터
-- typora 에디터: https://typora.io/
+typora 에디터: https://typora.io/
