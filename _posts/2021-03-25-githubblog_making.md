@@ -3,7 +3,8 @@ layout: post
 title:  "깃허브 블로그만들기"
 ---
 
-# github blog making
+
+# § github blog making
 
 1. 마음에 드는 테마를 선택합니다.
 https://github.com/topics/jekyll-theme​
